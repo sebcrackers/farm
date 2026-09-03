@@ -215,7 +215,7 @@ CONFIG = {
 
     # ── CONCURRENCY ──
     "browser_count": 10,
-    "contexts_per_browser": 4,          # 15 × 4 = 60 workers
+    "contexts_per_browser": 3,          # 15 × 4 = 60 workers
     "max_concurrent_visits": 60,
     "max_visits": 500000,
 
